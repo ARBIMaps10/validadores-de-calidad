@@ -1,0 +1,8 @@
+[general]
+name=Validadores de Calidad
+description=Plugin con validadores personalizados y árbol de reglas
+version=1.0
+qgisMinimumVersion=3.0
+author=Juanita
+email=Juanita030403@gmail.com
+icon=icon.png
